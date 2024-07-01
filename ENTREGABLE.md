@@ -55,3 +55,11 @@ A continuación esta el orden en que te sugerimos seguir los tutoriales.
     * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
     * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
     * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+
+## 3. Consideraciones para pedir tu Project Feedback
+
+Antes de agendar tu Project Feedback con tu coach, asegúrate de:
+
+- [✔] Completar los 10 tutoriales propuestos
+- [8] Completar los 11 ejercicios de HackerRank propuestos
+- [✔] Descubrir al asesino y escribir un informe en una Notebook Colab (Jupyter)
